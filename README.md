@@ -36,3 +36,5 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 ✦	~~Зачёркнутый текст~~
 ✦	* Строка – ненумерованные списки, символ “*” в начале строки
 ✦	1, 2, 3 … – нумерованные списки
+
+![](https://avatars.mds.yandex.net/i?id=8c01bf263f3d4c3f57fae8c9bb8f80bd07c8dec0-5115981-images-thumbs&n=13)
