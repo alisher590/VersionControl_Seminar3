@@ -20,3 +20,5 @@
 ✦	git checkout master – вернуться к актуальному состоянию и продолжить работу
 
 ✦	git diff – увидеть разницу между текущим файлом и закоммиченным файлом
+
+![](https://fuzeservers.ru/wp-content/uploads/4/e/b/4eb01c3cb3bf8940a4d7cf705cccdf3a.png)
